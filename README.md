@@ -25,6 +25,7 @@ After you get Raspbian-lite installed on a micro sd card and the rpi boots from 
 
 
 ## Arduino
+Pinout:https://camo.githubusercontent.com/0174ab1436903eb06dfea280a83c389460637054/68747470733a2f2f7261776769746875622e636f6d2f426f756e692f41726475696e6f2d50696e6f75742f6d61737465722f41726475696e6f253230556e6f253230523325323050696e6f75742e706e67
 
 Arduino is an atmel microprocessor that is easily programmed at a higher level thanks to the abstractions provided by the Arduino language. The processor is single threaded and can be interupted by timers which make it a good candidate for handling the syncronization of Motors.
 
